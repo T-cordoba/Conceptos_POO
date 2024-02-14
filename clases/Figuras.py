@@ -21,3 +21,5 @@ class Circulo:
             return True
         else:
             return False
+
+        #Crear metodo en la clase circulo donde dado otro circulo, debe decir si los circulos se intersectan
